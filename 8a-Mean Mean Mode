@@ -23,7 +23,7 @@ res <-median(x,na.rm=FALSE)
 print(res)
 
 
-Mode
+
 v <-c("mango","berry","mango")
 getmode <- function(v) {
   uniqv <- unique(v)
